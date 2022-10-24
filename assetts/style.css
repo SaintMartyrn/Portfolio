@@ -110,7 +110,7 @@ p {
   padding: 80px;
 }
 
-/* .headshot {
+.headshot {
   width: 300px;
   border-radius: 150px;
 }
@@ -118,10 +118,12 @@ p {
 .headshot-container {
   display: flex;
   align-items: center;
-} */
+}
+
+
 
 .project-card {
-  width: 300px;
+  width: 400px;
   height: 500px;
   border: 1px solid black;
   margin: 10px;
@@ -137,6 +139,14 @@ p {
     display: flex;
     flex-wrap: wrap;
   }
+}
+
+.project-cardbg {
+  width: 600px;
+  height: 500px;
+  border: 1px solid black;
+  margin: 10px;
+  color: black
 }
 
 .project-image {
