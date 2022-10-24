@@ -110,7 +110,7 @@ p {
   padding: 80px;
 }
 
-.headshot {
+/* .headshot {
   width: 300px;
   border-radius: 150px;
 }
@@ -118,7 +118,7 @@ p {
 .headshot-container {
   display: flex;
   align-items: center;
-}
+} */
 
 .project-card {
   width: 300px;
